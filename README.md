@@ -28,13 +28,13 @@ This project provides district-wise crop recommendations for Rajasthan using agr
 - Streamlit  
 - Pandas  
 
-
+#
 
     📂 Project Structure
-    ├── app.py
-    ├── agro-climatic-data-district-wise.json
-    ├── requirements.txt
-    └── README.md
+        ├── app.py
+        ├── agro-climatic-data-district-wise.json
+        ├── requirements.txt
+        └── README.md
 
 
 
