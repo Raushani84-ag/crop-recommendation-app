@@ -1,0 +1,203 @@
+{
+  "agro_climatic_zones": [
+    {
+      "zone_id": 1,
+      "zone_name": "Arid Western Plain Zone",
+
+      "characteristics": {
+        "rainfall_mm": "< 300",
+        "soil_type": "Sandy",
+        "temperature": "Extreme hot summers, cold winters",
+        "water_availability": "Very low"
+      },
+      "districts": [
+        "Jaisalmer",
+        "Barmer",
+        "Bikaner",
+        "Jodhpur"
+      ],
+      "suitable_crops": [
+        "Bajra",
+        "Cumin",
+        "Isabgol",
+        "Moth Bean"
+      ]
+    },
+    {
+      "zone_id": 2,
+      "zone_name": "Irrigated North-Western Plain Zone",
+      "characteristics": {
+        "rainfall_mm": "300-400",
+        "soil_type": "Alluvial",
+        "temperature": "High summer temperature",
+        "water_availability": "Canal irrigation"
+      },
+      "districts": [
+        "Sri Ganganagar",
+        "Hanumangarh"
+      ],
+      "suitable_crops": [
+        "Wheat",
+        "Cotton",
+        "Mustard"
+      ]
+    },
+    {
+      "zone_id": 3,
+      "zone_name": "Transitional Plain of Inland Drainage",
+      "characteristics": {
+        "rainfall_mm": "350-450",
+        "soil_type": "Sandy loam",
+        "temperature": "Semi-arid",
+        "water_availability": "Limited groundwater"
+      },
+      "districts": [
+        "Nagaur",
+        "Pali",
+        "Sikar",
+        "Jhunjhunu"
+      ],
+      "suitable_crops": [
+        "Mustard",
+        "Bajra",
+        "Cumin"
+      ]
+    },
+    {
+      "zone_id": 4,
+      "zone_name": "Semi-Arid Eastern Plain Zone",
+      "characteristics": {
+        "rainfall_mm": "400-600",
+        "soil_type": "Loamy",
+        "temperature": "Moderate",
+        "water_availability": "Medium"
+      },
+      "districts": [
+        "Jaipur",
+        "Dausa",
+        "Alwar",
+        "Bharatpur"
+      ],
+      "suitable_crops": [
+        "Mustard",
+        "Wheat",
+        "Soybean"
+      ]
+    },
+    {
+      "zone_id": 5,
+      "zone_name": "Flood Prone Eastern Plain Zone",
+      "characteristics": {
+        "rainfall_mm": "600-800",
+        "soil_type": "Fertile alluvial",
+        "temperature": "Moderate",
+        "water_availability": "High"
+      },
+      "districts": [
+        "Kota",
+        "Baran",
+        "Bundi"
+      ],
+      "suitable_crops": [
+        "Soybean",
+        "Wheat",
+        "Coriander"
+      ]
+    },
+    {
+      "zone_id": 6,
+      "zone_name": "Sub-Humid Southern Plain & Aravalli Hills",
+      "characteristics": {
+        "rainfall_mm": "700-900",
+        "soil_type": "Red loamy",
+        "temperature": "Moderate to humid",
+        "water_availability": "Good"
+      },
+      "districts": [
+        "Udaipur",
+        "Rajsamand",
+        "Chittorgarh",
+        "Dungarpur",
+        "Banswara"
+      ],
+      "suitable_crops": [
+        "Maize",
+        "Soybean",
+        "Garlic"
+      ]
+    },
+    {
+      "zone_id": 7,
+      "zone_name": "Humid Southern Plain",
+      "characteristics": {
+        "rainfall_mm": "900+",
+        "soil_type": "Fertile loamy",
+        "temperature": "Humid",
+        "water_availability": "High"
+      },
+      "districts": [
+        "Pratapgarh"
+      ],
+      "suitable_crops": [
+        "Soybean",
+        "Maize",
+        "Chilli"
+      ]
+    },
+    {
+      "zone_id": 8,
+      "zone_name": "Hyper Arid Partial Irrigated Zone",
+      "characteristics": {
+        "rainfall_mm": "< 200",
+        "soil_type": "Sandy desert",
+        "temperature": "Extreme",
+        "water_availability": "Very low"
+      },
+      "districts": [
+        "Churu"
+      ],
+      "suitable_crops": [
+        "Bajra",
+        "Cumin"
+      ]
+    },
+    {
+      "zone_id": 9,
+      "zone_name": "Southeastern Humid Plain",
+      "characteristics": {
+        "rainfall_mm": "800-1000",
+        "soil_type": "Black soil",
+        "temperature": "Moderate",
+        "water_availability": "High"
+      },
+      "districts": [
+        "Jhalawar"
+      ],
+      "suitable_crops": [
+        "Soybean",
+        "Wheat",
+        "Garlic"
+      ]
+    },
+    {
+      "zone_id": 10,
+      "zone_name": "Eastern Plain Zone",
+      "characteristics": {
+        "rainfall_mm": "500-700",
+        "soil_type": "Loamy",
+        "temperature": "Moderate",
+        "water_availability": "Medium"
+      },
+      "districts": [
+        "Karauli",
+        "Sawai Madhopur",
+        "Tonk"
+      ],
+      "suitable_crops": [
+        "Mustard",
+        "Wheat",
+        "Coriander"
+      ]
+    }
+  ]
+}
